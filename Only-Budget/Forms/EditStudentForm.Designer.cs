@@ -1,7 +1,7 @@
 ﻿
-namespace Lb6
+namespace Lb6.Forms
 {
-    partial class FormAddStudent
+    partial class EditStudentForm
     {
         /// <summary>
         /// Required designer variable.

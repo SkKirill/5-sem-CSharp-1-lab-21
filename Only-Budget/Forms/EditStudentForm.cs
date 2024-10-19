@@ -1,12 +1,13 @@
-﻿using System;
+﻿using Lb6.Models;
+using System;
 using System.Windows.Forms;
 
-namespace Lb6
+namespace Lb6.Forms
 {
-    public partial class FormAddStudent : Form
+    public partial class EditStudentForm : Form
     {
         public Students editStudent;
-        public FormAddStudent()
+        public EditStudentForm()
         {
             InitializeComponent();
         }
@@ -18,7 +19,7 @@ namespace Lb6
                 grid.Rows.Add(session.Exams[i].Name, session.Exams[i].Mark);
             }
         }
-        public FormAddStudent(Students student)
+        public EditStudentForm(Students student)
         {
             editStudent = student;
             InitializeComponent();
@@ -164,7 +165,7 @@ namespace Lb6
                         break;
                 }
                 Students student = new Students(textBoxFIO.Text, Convert.ToInt32(numericUpDownCours.Value), Convert.ToInt32(numericUpDownGroup.Value), session, formEducation);
-                FormData.Students.Add(student);
+                MainDataForm.Students.Add(student);
                 editStudent = null;
                 Close();
             }
@@ -202,7 +203,7 @@ namespace Lb6
         {
             if (editStudent != null)
             {
-                FormData.Students.Add(editStudent);
+                MainDataForm.Students.Add(editStudent);
             }
         }
 

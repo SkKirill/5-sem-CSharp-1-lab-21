@@ -1,32 +1,28 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lb6
+namespace Lb6.Forms
 {
-    public partial class FormInput : Form
+	public partial class InputForm : Form
     {
-        public enum State
-        {
-            delete,
-            edit
-        }
         private State ValState;
-        public FormInput(State valState)
+        public InputForm(State valState)
         {
             InitializeComponent();
             ValState = valState;
-        }
+            numericUpDownNumberStudent.Maximum = MainDataForm.Students.Count-1;
+		}
         private void button1_Click(object sender, EventArgs e)
         {
             int inputVal = (int)numericUpDownNumberStudent.Value;
-            if (FormData.Students.Count >= inputVal)
+            if (MainDataForm.Students.Count >= inputVal)
             {
                 if (ValState == State.edit)
                 {
-                    FormAddStudent addForm = new FormAddStudent(FormData.Students[inputVal - 1]);
+                    EditStudentForm addForm = new EditStudentForm(MainDataForm.Students[inputVal - 1]);
                     addForm.ShowDialog();
                 }
-                FormData.Students.Remove(FormData.Students[inputVal - 1]);
+                MainDataForm.Students.Remove(MainDataForm.Students[inputVal - 1]);
                 Close();
             }
             else MessageBox.Show("Не существует такого студента", "Ошибка!");

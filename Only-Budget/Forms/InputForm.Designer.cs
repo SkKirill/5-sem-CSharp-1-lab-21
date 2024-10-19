@@ -1,7 +1,7 @@
 ﻿
-namespace Lb6
+namespace Lb6.Forms
 {
-    partial class FormInput
+    partial class InputForm
     {
         /// <summary>
         /// Required designer variable.

@@ -1,30 +1,8 @@
 ﻿using System;
 
-namespace Lb6
+namespace Lb6.Models
 {
-    [Serializable]
-    public class Session
-    {
-        public const int countExamsInSesson = 4;
-        public Exam[] Exams { get; set; }
-        public Session()
-        {
-            Exams = new Exam[countExamsInSesson];
-        }
-    }
-    [Serializable]
-    public struct Exam
-    {
-        public string Name;
-        public int? Mark;
-    }
-    [Serializable]
-    public enum FormЕducat
-    {
-        Agreement,
-        Budget
-    }
-    [Serializable]
+	[Serializable]
     public class Students
     {
         public const int countSessions = 8;

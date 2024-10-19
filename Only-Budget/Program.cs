@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using Lb6.Forms;
 
 namespace Lb6
 {
@@ -13,7 +14,7 @@ namespace Lb6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormData());
+            Application.Run(new MainDataForm());
         }
     }
 }

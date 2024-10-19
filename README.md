@@ -6,7 +6,7 @@
 
 > Найти группы, в которых обучаются только студенты бюджетной формы обучения.
 
-Требования.
+**Требования.**
 Структура записи файла с информацией о студентах:
 - ФИО;
 - номер курса;
@@ -18,7 +18,7 @@
 - наименование предмета,
 - оценка.  
 
-Создать GUI приложение, выполняющее следующие функции:
+Создать GUI приложение, **выполняющее следующие функции:**
 - Создать новый файл.
 - Открыть существующий файл (в формате XML, двоичном или
 - текстовом формате).
@@ -47,31 +47,22 @@ public interface IFileProcessor
 ```
 Comparable-Mark/
 ├── Models/
+│   ├── Session.cs
+│   ├── FormEducation.cs
 │   ├── Student.cs
 │   └── Exam.cs
 ├── FileProcessors/
-│   ├── XmlFileProcessor.cs
-│   ├── BinaryFileProcessor.cs
-│   ├── TextFileProcessor.cs
+│   ├── FileProcessorXML.cs
+│   ├── FileProcessorDat.cs
+│   ├── FileProcessorTxt.cs
 │   └── IFileProcessor.cs
 ├── Forms/
-│   ├── MainForm.cs
-│   ├── AddStudentForm.cs
+│   ├── State.cs
+│   ├── InputForm.cs
+│   ├── MainDataForm.cs
 │   ├── EditStudentForm.cs
+│   └── TaskForm.cs
 └──  Program.cs
 ```
 
 # Примечания 
-
-В коде можно встретить:
-```csharp
-    [Obsolete("Obsolete")] 
-```
-Это обозначение, что данный элемент кода (класс, метод, свойство и т.д.) устарел и больше не рекомендуется к использованию.
-в нашем случае это класс `BinaryFormatter` информация с [сайта Microsoft](https://learn.microsoft.com/ru-ru/dotnet/core/compatibility/serialization/8.0/binaryformatter-disabled)  
-> В .NET 7 BinaryFormatter.Serialize(Stream, Object)BinaryFormatter.Deserialize(Stream) методы помечены как устаревшие и вызвали ошибку во время компиляции. Тем не менее, если приложение подавляло обнажение, оно по-прежнему может вызывать методы, и они работают правильно в большинстве типов проектов (за исключением ASP.NET, WASM и MAUI).
-> Начиная с .NET 8 затронутые методы создаются NotSupportedException во время выполнения во всех типах проектов, 
-> > **кроме Windows Forms и WPF.**  
-
-Поэтому в приложениях с WinForm мы просто ставим аннотацию.
-

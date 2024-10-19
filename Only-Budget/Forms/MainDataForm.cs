@@ -1,15 +1,17 @@
-﻿using System;
+﻿using Lb6.FileProcessor;
+using Lb6.Models;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Windows.Forms;
 
-namespace Lb6
+namespace Lb6.Forms
 {
-    public partial class FormData : Form
+	public partial class MainDataForm : Form
     {
         public static List<Students> Students { get; set; }
         private string FilePash = "";
-        public FormData()
+        public MainDataForm()
         {
             InitializeComponent();
             Students = new List<Students>();
@@ -17,7 +19,7 @@ namespace Lb6
 
         private void AddToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormAddStudent addForm = new FormAddStudent();
+            EditStudentForm addForm = new EditStudentForm();
             addForm.ShowDialog();
             RedrawGridData();
         }
@@ -44,7 +46,12 @@ namespace Lb6
                 SaveAsToolStripMenuItem_Click(sender, e);
                 return;
             }
-            if (FilePash.EndsWith(".dat"))
+			if (FilePash.EndsWith(".txt"))
+			{
+				IFileProcessor processor = new FileProcessorTxt();
+				processor.Save(FilePash, Students);
+			}
+			if (FilePash.EndsWith(".dat"))
             {
                 IFileProcessor processor = new FileProcessorDat();
                 processor.Save(FilePash, Students);
@@ -71,7 +78,12 @@ namespace Lb6
                     IFileProcessor processorBin = new FileProcessorDat();
                     Students = processorBin.Load(FilePash);
                 }
-                else MessageBox.Show("Неверно введено название файла", "Ошибка!");
+				else if (FilePash.EndsWith(".txt"))
+				{
+					IFileProcessor processorTxt = new FileProcessorTxt();
+					Students = processorTxt.Load(FilePash);
+				}
+				else MessageBox.Show("Неверно введено название файла", "Ошибка!");
                 RedrawGridData();
             }
         }
@@ -91,7 +103,12 @@ namespace Lb6
                     IFileProcessor processorBin = new FileProcessorDat();
                     processorBin.Save(FilePash, Students);
                 }
-                else MessageBox.Show("Неверно введено название файла", "Ошибка!");
+				else if (FilePash.EndsWith(".txt"))
+				{
+					IFileProcessor processorTxt = new FileProcessorTxt();
+					processorTxt.Save(FilePash, Students);
+				}
+				else MessageBox.Show("Неверно введено название файла", "Ошибка!");
             }
         }
 
@@ -112,14 +129,14 @@ namespace Lb6
 
         public void DeleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormInput inputForm = new FormInput(FormInput.State.delete);
+            InputForm inputForm = new InputForm(State.delete);
             inputForm.ShowDialog();
             RedrawGridData();
         }
 
         private void EditToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormInput inputForm = new FormInput(FormInput.State.edit);
+            InputForm inputForm = new InputForm(State.edit);
             inputForm.ShowDialog();
             RedrawGridData();
         }
@@ -132,7 +149,7 @@ namespace Lb6
         // 10. Найти номера групп на заданном курсе, в которых есть отличники
         private void taskToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormTask taskForm = new FormTask();
+            TaskForm taskForm = new TaskForm();
             taskForm.Show();
         }
 

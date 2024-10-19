@@ -1,7 +1,7 @@
 ﻿
-namespace Lb6
+namespace Lb6.Forms
 {
-    partial class FormData
+    partial class MainDataForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.

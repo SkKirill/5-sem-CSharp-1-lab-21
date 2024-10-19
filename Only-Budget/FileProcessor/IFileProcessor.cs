@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Lb6.Models;
+using System.Collections.Generic;
 
-namespace Lb6
+namespace Lb6.FileProcessor
 {
     public interface IFileProcessor
     {
