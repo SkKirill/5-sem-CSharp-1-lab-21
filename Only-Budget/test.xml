@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <FIO>My name is</FIO>
+    <Cours>2</Cours>
+    <Group>1</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>Loh</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>yeah</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>I</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>am</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>actually</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>just</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>loser</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>lol</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>do</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>you</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>believe</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>?</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>I haven't</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>passed</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>any</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>exam</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Agreement</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>Kot</FIO>
+    <Cours>1</Cours>
+    <Group>1</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>math</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>math2</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>IT</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>love</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>  lol</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>law</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>!</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>cum whore</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>Хворостинина Елизавета Павловна</FIO>
+    <Cours>1</Cours>
+    <Group>10</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фыа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыф</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>уву</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвф</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ф</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>Скомороов Кирилл Сергеевич</FIO>
+    <Cours>1</Cours>
+    <Group>101</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>уа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>выа</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>вы</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>выа</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>Фролов Юрий Александрович</FIO>
+    <Cours>1</Cours>
+    <Group>101</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>аа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>выа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>выа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>выа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>а</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыва</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>уевкнагпшнквегапшр</FIO>
+    <Cours>1</Cours>
+    <Group>111</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>саеас</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>е</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>сае</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>с</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>с</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>е</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>са</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>с</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Agreement</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>LOH 2.0</FIO>
+    <Cours>4</Cours>
+    <Group>2</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>smth</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>another</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>again</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>and again</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>well</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>I get</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>used</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>to this</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>heh</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>that's</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>normal</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>for me</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>I</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>don't</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>care</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>anymore</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>well</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>I </Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>lied</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>actually</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>I</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>am</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>very</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>tired</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>help</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>me</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>you</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>bitch</Name>
+            <Mark>2</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>programmer</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>I hate</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>YOU</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>WAIT WTF</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Students>
+  <Students>
+    <FIO>Залупин Сергей ПАВЛОВИЧ </FIO>
+    <Cours>1</Cours>
+    <Group>1</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>ПААРА</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ППРПМ</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ПАП</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ПРП</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>ПРР</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ПСР</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>РПАВ</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ПГС</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+      <Session xsi:nil="true" />
+    </Sessions>
+    <FormЕducation>Agreement</FormЕducation>
+  </Students>
+</ArrayOfStudents>
