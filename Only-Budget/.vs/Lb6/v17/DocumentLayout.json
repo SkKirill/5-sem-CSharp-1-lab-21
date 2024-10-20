@@ -3,83 +3,91 @@
   "WorkspaceRootPath": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\fileprocessor\\fileprocessortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\fileprocessortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\fileprocessor\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\fileprocessor\\fileprocessordat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\fileprocessordat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\fileprocessor\\fileprocessortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\fileprocessortxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\fileprocessor\\fileprocessorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\fileprocessorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\fileprocessor\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\ifileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\fileprocessor\\fileprocessorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:fileprocessor\\fileprocessorxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\models\\form\u0435ducat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\models\\form\u0435ducat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:models\\form\u0435ducat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\maindataform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\maindataform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\maindataform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\maindataform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\editstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|d:\\vsu-labs-git\\5-sem\\csharp\\1-lab\\21\\only-budget\\forms\\taskform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\forms\\taskform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED95C495-BB04-4D74-9361-E8E4BA263504}|Lb6.csproj|solutionrelative:forms\\taskform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -95,15 +103,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileProcessorDat.cs",
-              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorDat.cs",
-              "RelativeDocumentMoniker": "FileProcessor\\FileProcessorDat.cs",
-              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorDat.cs",
-              "RelativeToolTip": "FileProcessor\\FileProcessorDat.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAARAAAAAAAAAA==",
+              "Title": "EditStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditStudentForm.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\EditStudentForm.cs [Design]",
+              "RelativeToolTip": "Forms\\EditStudentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:49:48.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T16:47:01.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputForm.cs [Design]",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs",
+              "RelativeDocumentMoniker": "Forms\\InputForm.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs [Design]",
+              "RelativeToolTip": "Forms\\InputForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:31:52.924Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -113,27 +132,14 @@
               "RelativeDocumentMoniker": "FileProcessor\\FileProcessorTxt.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorTxt.cs",
               "RelativeToolTip": "FileProcessor\\FileProcessorTxt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T08:49:47.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FileProcessorXML.cs",
-              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorXML.cs",
-              "RelativeDocumentMoniker": "FileProcessor\\FileProcessorXML.cs",
-              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorXML.cs",
-              "RelativeToolTip": "FileProcessor\\FileProcessorXML.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:49:44.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IFileProcessor.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\IFileProcessor.cs",
               "RelativeDocumentMoniker": "FileProcessor\\IFileProcessor.cs",
@@ -146,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -154,25 +160,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:47:46.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:47:46.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Students.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Models\\Students.cs",
               "RelativeDocumentMoniker": "Models\\Students.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Models\\Students.cs",
               "RelativeToolTip": "Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T08:47:45.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Models\\Session.cs",
               "RelativeDocumentMoniker": "Models\\Session.cs",
@@ -180,12 +185,11 @@
               "RelativeToolTip": "Models\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:47:44.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:47:44.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form\u0415ducat.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Models\\Form\u0415ducat.cs",
               "RelativeDocumentMoniker": "Models\\Form\u0415ducat.cs",
@@ -193,12 +197,11 @@
               "RelativeToolTip": "Models\\Form\u0415ducat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:47:43.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:47:43.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MainDataForm.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\MainDataForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainDataForm.cs",
@@ -211,19 +214,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputForm.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs",
+              "RelativeDocumentMoniker": "Forms\\InputForm.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs",
+              "RelativeToolTip": "Forms\\InputForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:46:58.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileProcessorDat.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorDat.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\FileProcessorDat.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorDat.cs",
+              "RelativeToolTip": "FileProcessor\\FileProcessorDat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:49:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "FileProcessorXML.cs",
+              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorXML.cs",
+              "RelativeDocumentMoniker": "FileProcessor\\FileProcessorXML.cs",
+              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\FileProcessor\\FileProcessorXML.cs",
+              "RelativeToolTip": "FileProcessor\\FileProcessorXML.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:49:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TaskForm.cs [Design]",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\TaskForm.cs",
               "RelativeDocumentMoniker": "Forms\\TaskForm.cs",
               "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\TaskForm.cs [Design]",
               "RelativeToolTip": "Forms\\TaskForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:39:38.904Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-19T08:39:38.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TaskForm.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\TaskForm.cs",
               "RelativeDocumentMoniker": "Forms\\TaskForm.cs",
@@ -231,25 +271,11 @@
               "RelativeToolTip": "Forms\\TaskForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:29:41.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:29:41.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InputForm.cs",
-              "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs",
-              "RelativeDocumentMoniker": "Forms\\InputForm.cs",
-              "ToolTip": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.cs",
-              "RelativeToolTip": "Forms\\InputForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:46:58.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "EditStudentForm.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\EditStudentForm.cs",
               "RelativeDocumentMoniker": "Forms\\EditStudentForm.cs",
@@ -262,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Exam.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "Models\\Exam.cs",
@@ -270,12 +296,11 @@
               "RelativeToolTip": "Models\\Exam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:47:42.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:47:42.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "State.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\State.cs",
               "RelativeDocumentMoniker": "Forms\\State.cs",
@@ -283,12 +308,11 @@
               "RelativeToolTip": "Forms\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:47:35.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:47:35.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "MainDataForm.cs [Design]",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\MainDataForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainDataForm.cs",
@@ -300,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "InputForm.Designer.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\InputForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\InputForm.Designer.cs",
@@ -313,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MainDataForm.Designer.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\MainDataForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\MainDataForm.Designer.cs",
@@ -326,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "EditStudentForm.Designer.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\EditStudentForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\EditStudentForm.Designer.cs",
@@ -339,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "TaskForm.Designer.cs",
               "DocumentMoniker": "D:\\VSU-Labs-git\\5-sem\\CSharp\\1-lab\\21\\Only-Budget\\Forms\\TaskForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\TaskForm.Designer.cs",
@@ -347,8 +371,7 @@
               "RelativeToolTip": "Forms\\TaskForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T08:45:52.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:45:52.824Z"
             }
           ]
         }

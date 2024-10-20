@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Windows.Forms;
 
 namespace Lb6.FileProcessor
 {
@@ -9,11 +10,6 @@ namespace Lb6.FileProcessor
 	{
 		public List<Students> Load(string filename)
 		{
-			filename += ".txt";
-			// Проверка на существование файла
-			if (!File.Exists(filename))
-				return new List<Students>(); // Возвращаем пустой список
-
 			List<Students> students = new List<Students>();
 			using (StreamReader reader = new StreamReader(filename))
 			{
@@ -22,16 +18,17 @@ namespace Lb6.FileProcessor
 				{
 					Students student = new Students();
 
-					string[] parts = line.Split(';');
+					string[] parts = line.Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
 
 					student.FIO = parts[0];
 					student.Cours = Convert.ToInt32(parts[1]);
 					student.Group = Convert.ToInt32(parts[2]);
 					student.FormЕducation = parts[3] == "Budget" ? FormЕducat.Budget : FormЕducat.Agreement;
 
-					int position = 4;
-					foreach (Session session in student.Sessions)
+					for (int position = 4, count = 0; position < parts.Length && count < Students.countSessions; count++)
 					{
+						student.Sessions[count] = new Session();
+						Session session = student.Sessions[count];
 						for (int i = 0; i < Session.countExamsInSesson; i++, position = position + 2)
 						{
 							session.Exams[i].Name = parts[position];
@@ -46,7 +43,6 @@ namespace Lb6.FileProcessor
 
 		public void Save(string filename, List<Students> students)
 		{
-			filename += ".txt";
 			using (StreamWriter writer = new StreamWriter(filename))
 			{
 				foreach (Students student in students)
@@ -55,6 +51,10 @@ namespace Lb6.FileProcessor
 
 					foreach (Session session in student.Sessions)
 					{
+						if (session is null)
+						{
+							break;
+						}
 						foreach (Exam exam in session.Exams)
 						{
 							line += $"{exam.Name};{exam.Mark};";

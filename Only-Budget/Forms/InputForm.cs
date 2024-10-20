@@ -10,10 +10,16 @@ namespace Lb6.Forms
         {
             InitializeComponent();
             ValState = valState;
-            numericUpDownNumberStudent.Maximum = MainDataForm.Students.Count-1;
+            numericUpDownNumberStudent.Maximum = MainDataForm.Students.Count;
 		}
         private void button1_Click(object sender, EventArgs e)
         {
+            if (MainDataForm.Students.Count == 0)
+            {
+                MessageBox.Show("Нет записей для просмотра или редактирования!");
+                return;
+            }
+
             int inputVal = (int)numericUpDownNumberStudent.Value;
             if (MainDataForm.Students.Count >= inputVal)
             {

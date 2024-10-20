@@ -38,10 +38,6 @@ C:\Users\DELL\Desktop\5 семестр\С#\Labs\Lb6\Лиза(10)\obj\Debug\Lb6.c
 C:\Users\DELL\Desktop\5 семестр\С#\Labs\Lb6\Лиза(10)\obj\Debug\Lb6.exe
 C:\Users\DELL\Desktop\5 семестр\С#\Labs\Lb6\Лиза(10)\obj\Debug\Lb6.pdb
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.csproj.AssemblyReference.cache
-D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.FormAddStudent.resources
-D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.FormData.resources
-D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.TaskForm.resources
-D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.FormInput.resources
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Properties.Resources.resources
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.csproj.GenerateResource.cache
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.csproj.CoreCompileInputs.cache
@@ -50,3 +46,7 @@ D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.pdb
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\bin\Debug\Lb6.exe.config
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\bin\Debug\Lb6.exe
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\bin\Debug\Lb6.pdb
+D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.EditStudentForm.resources
+D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.MainDataForm.resources
+D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.TaskForm.resources
+D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.InputForm.resources
