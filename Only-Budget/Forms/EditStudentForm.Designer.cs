@@ -175,8 +175,6 @@ namespace Lb6.Forms
             this.dataGridViewSessia1.RowTemplate.Height = 24;
             this.dataGridViewSessia1.Size = new System.Drawing.Size(200, 115);
             this.dataGridViewSessia1.TabIndex = 9;
-            this.dataGridViewSessia1.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewSessia1_CellValueChanged);
-            this.dataGridViewSessia1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.dataGridViewSessia1_KeyPress);
             // 
             // ColumnName
             // 
@@ -280,7 +278,6 @@ namespace Lb6.Forms
             this.dataGridViewSessia2.RowTemplate.Height = 24;
             this.dataGridViewSessia2.Size = new System.Drawing.Size(200, 115);
             this.dataGridViewSessia2.TabIndex = 13;
-            this.dataGridViewSessia2.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewSessia1_CellValueChanged);
             // 
             // dataGridViewTextBoxColumn1
             // 
@@ -419,7 +416,6 @@ namespace Lb6.Forms
             this.dataGridViewSessia3.RowTemplate.Height = 24;
             this.dataGridViewSessia3.Size = new System.Drawing.Size(200, 115);
             this.dataGridViewSessia3.TabIndex = 19;
-            this.dataGridViewSessia3.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewSessia1_CellValueChanged);
             // 
             // dataGridViewTextBoxColumn7
             // 
@@ -512,7 +508,6 @@ namespace Lb6.Forms
             this.dataGridViewSessia4.RowTemplate.Height = 24;
             this.dataGridViewSessia4.Size = new System.Drawing.Size(200, 115);
             this.dataGridViewSessia4.TabIndex = 23;
-            this.dataGridViewSessia4.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewSessia1_CellValueChanged);
             // 
             // dataGridViewTextBoxColumn11
             // 

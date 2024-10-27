@@ -54,17 +54,6 @@ namespace Lb6.Forms
                     break;
             }
         }
-        private void clearCelect()
-        {
-            dataGridViewSessia8.ClearSelection();
-            dataGridViewSessia7.ClearSelection();
-            dataGridViewSessia6.ClearSelection();
-            dataGridViewSessia5.ClearSelection();
-            dataGridViewSessia4.ClearSelection();
-            dataGridViewSessia3.ClearSelection();
-            dataGridViewSessia2.ClearSelection();
-            dataGridViewSessia1.ClearSelection();
-        }
         private void EditStudent_Load(object sender, EventArgs e)
         {
             dataGridViewSessia1.RowCount = 4;
@@ -75,7 +64,6 @@ namespace Lb6.Forms
             dataGridViewSessia6.RowCount = 4;
             dataGridViewSessia7.RowCount = 4;
             dataGridViewSessia8.RowCount = 4;
-            clearCelect();
         }
         private void checkBoxAgreement_CheckedChanged(object sender, EventArgs e)
         {
@@ -205,16 +193,6 @@ namespace Lb6.Forms
             {
                 MainDataForm.Students.Add(editStudent);
             }
-        }
-
-        private void dataGridViewSessia1_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            
-        }
-
-        private void dataGridViewSessia1_CellValueChanged(object sender, DataGridViewCellEventArgs e)
-        {
-            clearCelect();
         }
     }
 }

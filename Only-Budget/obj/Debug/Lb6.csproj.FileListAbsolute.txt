@@ -49,4 +49,3 @@ D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\bin\Debug\Lb6.pdb
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.EditStudentForm.resources
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.MainDataForm.resources
 D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.TaskForm.resources
-D:\VSU-Labs-git\5-sem\CSharp\1-lab\21\Only-Budget\obj\Debug\Lb6.Forms.InputForm.resources

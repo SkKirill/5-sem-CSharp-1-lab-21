@@ -129,24 +129,60 @@ namespace Lb6.Forms
 
         public void DeleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            InputForm inputForm = new InputForm(State.delete);
-            inputForm.ShowDialog();
-            RedrawGridData();
+            try
+            {
+                // Получаем первую выделенную строку
+                var selectedRow = dataGridViewData.CurrentCell.RowIndex;
+                // Проверяем, что индекс в пределах допустимого диапазона
+                if (selectedRow >= 0 && selectedRow <= Students.Count)
+                {
+                    // Удаляем студента с индексом на один меньше
+                    Students.RemoveAt(selectedRow);
+                    RedrawGridData(); // Обновляем отображение данных
+                }
+                else
+                {
+                    MessageBox.Show("Некорректный индекс для удаления студента.");
+                }
+            }
+            catch 
+            { 
+                //ignored
+            }
         }
 
         private void EditToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            InputForm inputForm = new InputForm(State.edit);
-            inputForm.ShowDialog();
-            RedrawGridData();
-        }
+			try
+			{
+				// Получаем первую выделенную строку
+				var selectedRow = dataGridViewData.CurrentCell.RowIndex;
+				// Проверяем, что индекс в пределах допустимого диапазона
+				if (selectedRow >= 0 && selectedRow <= Students.Count)
+				{
+					EditStudentForm addForm = new EditStudentForm(Students[selectedRow]);
+					addForm.ShowDialog();
+					// Удаляем студента с индексом на один меньше
+					Students.RemoveAt(selectedRow);
+					RedrawGridData(); // Обновляем отображение данных
+				}
+				else
+				{
+					MessageBox.Show("Некорректный индекс для удаления студента.");
+				}
+			}
+			catch
+			{
+				//ignored
+			}
+		}
 
         private void DeleteTableToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Students.Clear();
             RedrawGridData();
         }
-        // 10. Найти номера групп на заданном курсе, в которых есть отличники
+
         private void taskToolStripMenuItem_Click(object sender, EventArgs e)
         {
             TaskForm taskForm = new TaskForm();
@@ -170,10 +206,5 @@ namespace Lb6.Forms
         {
             dataGridViewData.ClearSelection();
         }
-
-        private void dataGridViewData_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-    }
+	}
 }
