@@ -1,4 +1,4 @@
-### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII | vk = sk_kirill | VisualStudia | C#
+### Скоморохов Кирилл | 8 (900) 988-75-37 | Т-Банк | tg = @sk_kiriII | vk = sk_kirill | VisualStudio | C#
 
 > **1500₽**
 
